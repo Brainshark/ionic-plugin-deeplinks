@@ -1,3 +1,5 @@
+This plugin is forked from https://github.com/ionic-team/ionic-plugin-deeplinks
+
 # Community Maintained
 
 This plugin is being maintained by the Ionic community. Interested in helping? Message `max` on ionic worldwide slack.
